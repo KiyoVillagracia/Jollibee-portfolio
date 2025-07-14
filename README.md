@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -30,8 +29,6 @@
 </body>
 </html>
 
-<!-- File: about.html -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -63,8 +60,6 @@
 </body>
 </html>
 
-<!-- File: products.html -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -101,8 +96,6 @@
 </body>
 </html>
 
-<!-- File: login.html -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -139,8 +132,6 @@
 </body>
 </html>
 
-<!-- File: contact.html -->
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -175,7 +166,6 @@
 </body>
 </html>
 
-<!-- File: styles.css -->
 body {
   font-family: Arial, sans-serif;
   margin: 0;
